@@ -1,0 +1,94 @@
+08:09:09.140 [JettyServerThreadPool-17] DEBUG dLog - validating account
+08:09:12.702 [JettyServerThreadPool-29] DEBUG dLog - GET USER
+10:16:48.439 [JettyServerThreadPool-23] DEBUG dLog - validating account
+10:16:48.949 [JettyServerThreadPool-23] DEBUG dLog - GET USER
+10:16:58.050 [JettyServerThreadPool-29] DEBUG dLog - validating account
+10:16:58.379 [JettyServerThreadPool-37] DEBUG dLog - GET USER
+10:17:10.908 [JettyServerThreadPool-29] DEBUG dLog - Actually all requests handler
+10:18:32.513 [JettyServerThreadPool-23] DEBUG dLog - Actually all requests handler
+11:33:37.776 [JettyServerThreadPool-17] DEBUG dLog - validating account
+11:33:38.116 [JettyServerThreadPool-21] DEBUG dLog - GET USER
+11:33:40.679 [JettyServerThreadPool-39] DEBUG dLog - GET USER
+11:33:41.843 [JettyServerThreadPool-29] DEBUG dLog - All Requests Handler
+11:34:23.184 [JettyServerThreadPool-29] DEBUG dLog - validating account
+11:34:23.526 [JettyServerThreadPool-42] DEBUG dLog - GET USER
+11:34:26.633 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+11:35:36.959 [JettyServerThreadPool-35] DEBUG dLog - submitReimbursement Handler
+11:35:37.269 [JettyServerThreadPool-42] DEBUG dLog - GET USER
+11:35:40.411 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+11:35:41.518 [JettyServerThreadPool-44] DEBUG dLog - All Requests Handler
+11:37:07.818 [JettyServerThreadPool-35] DEBUG dLog - validating account
+11:37:08.260 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+11:37:16.367 [JettyServerThreadPool-39] DEBUG dLog - GET USER
+11:37:18.600 [JettyServerThreadPool-23] DEBUG dLog - All Requests Handler
+11:37:25.772 [JettyServerThreadPool-43] DEBUG dLog - allFalseRequests Handler
+11:37:56.678 [JettyServerThreadPool-44] DEBUG dLog - Accepted reimbursement request
+11:37:56.679 [JettyServerThreadPool-43] DEBUG dLog - accepted request
+11:37:57.423 [JettyServerThreadPool-43] DEBUG dLog - allFalseRequests Handler
+11:38:17.622 [JettyServerThreadPool-39] DEBUG dLog - validating account
+11:38:17.940 [JettyServerThreadPool-23] DEBUG dLog - GET USER
+11:38:20.915 [JettyServerThreadPool-44] DEBUG dLog - GET USER
+11:38:29.774 [JettyServerThreadPool-21] DEBUG dLog - All Requests Handler
+12:36:17.743 [JettyServerThreadPool-44] DEBUG dLog - validating account
+12:36:20.587 [JettyServerThreadPool-21] DEBUG dLog - validating account
+12:36:20.884 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+12:36:27.910 [JettyServerThreadPool-21] DEBUG dLog - validating account
+12:36:28.246 [JettyServerThreadPool-23] DEBUG dLog - GET USER
+12:36:36.075 [JettyServerThreadPool-39] DEBUG dLog - GET USER
+12:36:38.023 [JettyServerThreadPool-35] DEBUG dLog - All Requests Handler
+12:36:48.988 [JettyServerThreadPool-23] DEBUG dLog - GET USER
+12:37:30.753 [JettyServerThreadPool-23] DEBUG dLog - validating account
+12:37:31.085 [JettyServerThreadPool-49] DEBUG dLog - GET USER
+12:37:46.033 [JettyServerThreadPool-51] DEBUG dLog - Actually all requests handler
+12:54:42.627 [JettyServerThreadPool-44] DEBUG dLog - validating account
+12:54:42.966 [JettyServerThreadPool-21] DEBUG dLog - GET USER
+12:54:53.556 [JettyServerThreadPool-44] DEBUG dLog - validating account
+12:54:53.952 [JettyServerThreadPool-44] DEBUG dLog - GET USER
+12:54:56.287 [JettyServerThreadPool-44] DEBUG dLog - allFalseRequests Handler
+13:37:35.584 [JettyServerThreadPool-52] DEBUG dLog - validating account
+13:37:35.628 [JettyServerThreadPool-52] DEBUG dLog - Invalid credentials
+13:37:35.715 [JettyServerThreadPool-52] DEBUG dLog - No result from query
+13:37:38.904 [JettyServerThreadPool-44] DEBUG dLog - validating account
+13:37:38.949 [JettyServerThreadPool-44] DEBUG dLog - Invalid credentials
+13:37:39.029 [JettyServerThreadPool-44] DEBUG dLog - No result from query
+13:37:42.843 [JettyServerThreadPool-21] DEBUG dLog - validating account
+13:37:43.215 [JettyServerThreadPool-44] DEBUG dLog - GET USER
+13:37:49.750 [JettyServerThreadPool-44] DEBUG dLog - validating account
+13:37:49.794 [JettyServerThreadPool-44] DEBUG dLog - Invalid credentials
+13:37:49.873 [JettyServerThreadPool-44] DEBUG dLog - No result from query
+13:43:26.671 [JettyServerThreadPool-56] DEBUG dLog - validating account
+13:43:26.711 [JettyServerThreadPool-56] DEBUG dLog - Invalid credentials
+13:43:26.785 [JettyServerThreadPool-56] DEBUG dLog - No result from query
+13:43:32.968 [JettyServerThreadPool-48] DEBUG dLog - validating account
+13:43:33.012 [JettyServerThreadPool-48] DEBUG dLog - Invalid credentials
+13:43:33.091 [JettyServerThreadPool-48] DEBUG dLog - No result from query
+13:43:43.870 [JettyServerThreadPool-35] DEBUG dLog - validating account
+13:43:44.255 [JettyServerThreadPool-44] DEBUG dLog - GET USER
+13:43:50.635 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+13:44:03.623 [JettyServerThreadPool-51] DEBUG dLog - submitReimbursement Handler
+13:44:03.913 [JettyServerThreadPool-44] DEBUG dLog - GET USER
+13:44:12.222 [JettyServerThreadPool-21] DEBUG dLog - GET USER
+13:44:18.453 [JettyServerThreadPool-23] DEBUG dLog - All Requests Handler
+13:45:00.193 [JettyServerThreadPool-44] DEBUG dLog - validating account
+13:45:00.588 [JettyServerThreadPool-51] DEBUG dLog - GET USER
+13:45:15.311 [JettyServerThreadPool-60] DEBUG dLog - allFalseRequests Handler
+13:45:26.719 [JettyServerThreadPool-51] DEBUG dLog - Accepted reimbursement request
+13:45:26.720 [JettyServerThreadPool-35] DEBUG dLog - accepted request
+13:45:27.413 [JettyServerThreadPool-35] DEBUG dLog - allFalseRequests Handler
+13:45:50.864 [JettyServerThreadPool-60] DEBUG dLog - Accepted reimbursement request
+13:45:50.865 [JettyServerThreadPool-48] DEBUG dLog - accepted request
+13:45:51.160 [JettyServerThreadPool-48] DEBUG dLog - allFalseRequests Handler
+13:45:53.196 [JettyServerThreadPool-56] DEBUG dLog - Accepted reimbursement request
+13:45:53.198 [JettyServerThreadPool-23] DEBUG dLog - accepted request
+13:45:53.476 [JettyServerThreadPool-56] DEBUG dLog - allFalseRequests Handler
+13:45:54.923 [JettyServerThreadPool-23] DEBUG dLog - Accepted reimbursement request
+13:45:54.924 [JettyServerThreadPool-51] DEBUG dLog - accepted request
+13:45:55.238 [JettyServerThreadPool-51] DEBUG dLog - allFalseRequests Handler
+13:45:56.654 [JettyServerThreadPool-23] DEBUG dLog - Accepted reimbursement request
+13:45:56.655 [JettyServerThreadPool-56] DEBUG dLog - accepted request
+13:45:57.001 [JettyServerThreadPool-56] DEBUG dLog - allFalseRequests Handler
+13:46:02.990 [JettyServerThreadPool-21] DEBUG dLog - GET USER
+13:46:03.812 [JettyServerThreadPool-59] DEBUG dLog - All Requests Handler
+15:17:21.990 [JettyServerThreadPool-44] DEBUG dLog - validating account
+15:17:22.364 [JettyServerThreadPool-59] DEBUG dLog - GET USER
+15:17:39.904 [JettyServerThreadPool-23] DEBUG dLog - allFalseRequests Handler

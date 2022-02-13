@@ -1,0 +1,407 @@
+12:59:01.153 [JettyServerThreadPool-29] DEBUG dLog - validating account
+12:59:04.078 [JettyServerThreadPool-18] DEBUG dLog - GET USER
+12:59:12.279 [JettyServerThreadPool-20] DEBUG dLog - validating account
+12:59:12.597 [JettyServerThreadPool-28] DEBUG dLog - GET USER
+12:59:16.342 [JettyServerThreadPool-21] DEBUG dLog - allFalseRequests Handler
+13:00:08.536 [JettyServerThreadPool-28] DEBUG dLog - allFalseRequests Handler
+13:03:23.438 [JettyServerThreadPool-21] DEBUG dLog - allFalseRequests Handler
+13:40:05.086 [JettyServerThreadPool-29] DEBUG dLog - GET USER
+13:42:16.841 [JettyServerThreadPool-28] DEBUG dLog - targeting account
+13:42:45.827 [JettyServerThreadPool-17] DEBUG dLog - targeting account
+13:42:50.702 [JettyServerThreadPool-23] DEBUG dLog - targeting account
+14:17:49.953 [JettyServerThreadPool-21] DEBUG dLog - allFalseRequests Handler
+14:17:56.852 [JettyServerThreadPool-22] DEBUG dLog - accepted request
+14:18:50.027 [JettyServerThreadPool-21] DEBUG dLog - allFalseRequests Handler
+14:18:54.685 [JettyServerThreadPool-21] DEBUG dLog - accepted request
+14:18:57.524 [JettyServerThreadPool-21] DEBUG dLog - accepted request
+14:24:27.665 [JettyServerThreadPool-19] DEBUG dLog - allFalseRequests Handler
+14:24:28.676 [JettyServerThreadPool-19] DEBUG dLog - accepted request
+14:26:00.065 [JettyServerThreadPool-17] DEBUG dLog - allFalseRequests Handler
+14:26:01.158 [JettyServerThreadPool-17] DEBUG dLog - accepted request
+14:28:13.385 [JettyServerThreadPool-23] DEBUG dLog - allFalseRequests Handler
+14:28:14.214 [JettyServerThreadPool-23] DEBUG dLog - accepted request
+14:28:54.785 [JettyServerThreadPool-19] DEBUG dLog - allFalseRequests Handler
+14:28:56.330 [JettyServerThreadPool-19] DEBUG dLog - accepted request
+14:28:58.433 [JettyServerThreadPool-19] DEBUG dLog - accepted request
+14:29:11.103 [JettyServerThreadPool-19] DEBUG dLog - accepted request
+14:29:13.286 [JettyServerThreadPool-19] DEBUG dLog - allFalseRequests Handler
+14:29:15.876 [JettyServerThreadPool-17] DEBUG dLog - accepted request
+14:29:18.312 [JettyServerThreadPool-22] DEBUG dLog - allFalseRequests Handler
+14:31:11.320 [JettyServerThreadPool-18] DEBUG dLog - validating account
+14:31:11.973 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+14:31:14.218 [JettyServerThreadPool-18] DEBUG dLog - GET USER
+14:31:23.145 [JettyServerThreadPool-22] DEBUG dLog - submitReimbursement Handler
+14:37:30.980 [JettyServerThreadPool-23] DEBUG dLog - validating account
+14:37:31.828 [JettyServerThreadPool-22] DEBUG dLog - GET USER
+14:37:34.451 [JettyServerThreadPool-17] DEBUG dLog - allFalseRequests Handler
+14:37:36.987 [JettyServerThreadPool-30] DEBUG dLog - accepted request
+14:37:39.366 [JettyServerThreadPool-18] DEBUG dLog - allFalseRequests Handler
+14:37:40.531 [JettyServerThreadPool-18] DEBUG dLog - accepted request
+14:37:44.768 [JettyServerThreadPool-18] DEBUG dLog - allFalseRequests Handler
+14:43:31.056 [JettyServerThreadPool-23] DEBUG dLog - GET USER
+14:43:35.076 [JettyServerThreadPool-16] DEBUG dLog - submitReimbursement Handler
+14:43:35.949 [JettyServerThreadPool-17] DEBUG dLog - GET USER
+14:43:39.005 [JettyServerThreadPool-19] DEBUG dLog - GET USER
+14:43:43.081 [JettyServerThreadPool-23] DEBUG dLog - submitReimbursement Handler
+14:43:43.462 [JettyServerThreadPool-18] DEBUG dLog - GET USER
+14:43:45.621 [JettyServerThreadPool-32] DEBUG dLog - GET USER
+14:43:50.391 [JettyServerThreadPool-16] DEBUG dLog - submitReimbursement Handler
+14:43:50.743 [JettyServerThreadPool-19] DEBUG dLog - GET USER
+14:43:54.650 [JettyServerThreadPool-19] DEBUG dLog - allFalseRequests Handler
+14:43:58.171 [JettyServerThreadPool-19] DEBUG dLog - accepted request
+14:44:01.343 [JettyServerThreadPool-19] DEBUG dLog - allFalseRequests Handler
+14:45:37.956 [JettyServerThreadPool-18] DEBUG dLog - allFalseRequests Handler
+14:45:39.237 [JettyServerThreadPool-22] DEBUG dLog - allFalseRequests Handler
+14:45:43.039 [JettyServerThreadPool-30] DEBUG dLog - allFalseRequests Handler
+14:45:49.678 [JettyServerThreadPool-23] DEBUG dLog - allFalseRequests Handler
+14:45:53.378 [JettyServerThreadPool-21] DEBUG dLog - allFalseRequests Handler
+14:45:56.714 [JettyServerThreadPool-22] DEBUG dLog - allFalseRequests Handler
+14:45:58.777 [JettyServerThreadPool-22] DEBUG dLog - allFalseRequests Handler
+14:46:25.050 [JettyServerThreadPool-22] DEBUG dLog - allFalseRequests Handler
+14:46:28.485 [JettyServerThreadPool-21] DEBUG dLog - allFalseRequests Handler
+14:47:36.435 [JettyServerThreadPool-20] DEBUG dLog - allFalseRequests Handler
+14:47:38.963 [JettyServerThreadPool-20] DEBUG dLog - allFalseRequests Handler
+14:47:40.020 [JettyServerThreadPool-17] DEBUG dLog - allFalseRequests Handler
+14:47:41.606 [JettyServerThreadPool-17] DEBUG dLog - allFalseRequests Handler
+14:47:43.488 [JettyServerThreadPool-18] DEBUG dLog - allFalseRequests Handler
+14:48:06.453 [JettyServerThreadPool-18] DEBUG dLog - allFalseRequests Handler
+14:48:31.518 [JettyServerThreadPool-17] DEBUG dLog - allFalseRequests Handler
+14:48:33.053 [JettyServerThreadPool-23] DEBUG dLog - allFalseRequests Handler
+14:48:34.549 [JettyServerThreadPool-19] DEBUG dLog - allFalseRequests Handler
+14:48:38.405 [JettyServerThreadPool-22] DEBUG dLog - allFalseRequests Handler
+14:48:59.213 [JettyServerThreadPool-20] DEBUG dLog - validating account
+14:48:59.785 [JettyServerThreadPool-30] DEBUG dLog - GET USER
+14:49:02.881 [JettyServerThreadPool-20] DEBUG dLog - allFalseRequests Handler
+14:49:10.467 [JettyServerThreadPool-30] DEBUG dLog - allFalseRequests Handler
+14:49:12.495 [JettyServerThreadPool-30] DEBUG dLog - allFalseRequests Handler
+14:49:17.682 [JettyServerThreadPool-19] DEBUG dLog - allFalseRequests Handler
+14:49:18.966 [JettyServerThreadPool-20] DEBUG dLog - allFalseRequests Handler
+14:49:20.994 [JettyServerThreadPool-20] DEBUG dLog - allFalseRequests Handler
+14:49:33.953 [JettyServerThreadPool-20] DEBUG dLog - allFalseRequests Handler
+14:49:35.411 [JettyServerThreadPool-30] DEBUG dLog - allFalseRequests Handler
+14:49:36.382 [JettyServerThreadPool-19] DEBUG dLog - allFalseRequests Handler
+14:49:36.729 [JettyServerThreadPool-23] DEBUG dLog - allFalseRequests Handler
+14:49:38.268 [JettyServerThreadPool-23] DEBUG dLog - allFalseRequests Handler
+14:49:40.537 [JettyServerThreadPool-20] DEBUG dLog - allFalseRequests Handler
+14:53:08.924 [JettyServerThreadPool-17] DEBUG dLog - Accepted reimbursement request
+14:54:43.817 [JettyServerThreadPool-16] DEBUG dLog - Accepted reimbursement request
+14:55:15.358 [JettyServerThreadPool-21] DEBUG dLog - allFalseRequests Handler
+14:55:17.186 [JettyServerThreadPool-29] DEBUG dLog - allFalseRequests Handler
+14:56:51.980 [JettyServerThreadPool-21] DEBUG dLog - allFalseRequests Handler
+14:56:52.995 [JettyServerThreadPool-32] DEBUG dLog - allFalseRequests Handler
+14:56:54.307 [JettyServerThreadPool-32] DEBUG dLog - allFalseRequests Handler
+14:56:55.226 [JettyServerThreadPool-29] DEBUG dLog - allFalseRequests Handler
+14:56:56.734 [JettyServerThreadPool-16] DEBUG dLog - allFalseRequests Handler
+14:57:03.225 [JettyServerThreadPool-18] DEBUG dLog - allFalseRequests Handler
+14:57:17.036 [JettyServerThreadPool-32] DEBUG dLog - allFalseRequests Handler
+14:58:25.893 [JettyServerThreadPool-32] DEBUG dLog - allFalseRequests Handler
+14:58:27.133 [JettyServerThreadPool-20] DEBUG dLog - Accepted reimbursement request
+14:58:27.134 [JettyServerThreadPool-23] DEBUG dLog - accepted request
+14:58:28.275 [JettyServerThreadPool-23] DEBUG dLog - allFalseRequests Handler
+14:58:30.222 [JettyServerThreadPool-32] DEBUG dLog - Accepted reimbursement request
+14:58:30.223 [JettyServerThreadPool-20] DEBUG dLog - accepted request
+14:58:30.521 [JettyServerThreadPool-16] DEBUG dLog - allFalseRequests Handler
+14:58:31.408 [JettyServerThreadPool-20] DEBUG dLog - Accepted reimbursement request
+14:58:31.409 [JettyServerThreadPool-29] DEBUG dLog - accepted request
+14:58:31.791 [JettyServerThreadPool-21] DEBUG dLog - allFalseRequests Handler
+14:58:33.480 [JettyServerThreadPool-29] DEBUG dLog - Accepted reimbursement request
+14:58:33.481 [JettyServerThreadPool-32] DEBUG dLog - accepted request
+14:58:33.761 [JettyServerThreadPool-32] DEBUG dLog - allFalseRequests Handler
+15:00:05.275 [JettyServerThreadPool-23] DEBUG dLog - allFalseRequests Handler
+15:01:18.911 [JettyServerThreadPool-33] DEBUG dLog - validating account
+15:01:19.573 [JettyServerThreadPool-23] DEBUG dLog - GET USER
+15:01:26.619 [JettyServerThreadPool-34] DEBUG dLog - validating account
+15:01:26.668 [JettyServerThreadPool-34] DEBUG dLog - Invalid credentials
+15:01:27.039 [JettyServerThreadPool-34] DEBUG dLog - No result from query
+15:01:34.751 [JettyServerThreadPool-16] DEBUG dLog - validating account
+15:01:35.386 [JettyServerThreadPool-16] DEBUG dLog - GET USER
+15:01:38.687 [JettyServerThreadPool-21] DEBUG dLog - GET USER
+15:01:47.873 [JettyServerThreadPool-29] DEBUG dLog - submitReimbursement Handler
+15:01:48.264 [JettyServerThreadPool-16] DEBUG dLog - GET USER
+15:01:50.504 [JettyServerThreadPool-32] DEBUG dLog - GET USER
+15:02:04.326 [JettyServerThreadPool-33] DEBUG dLog - submitReimbursement Handler
+15:02:04.615 [JettyServerThreadPool-16] DEBUG dLog - GET USER
+15:02:07.779 [JettyServerThreadPool-33] DEBUG dLog - GET USER
+15:02:19.190 [JettyServerThreadPool-16] DEBUG dLog - submitReimbursement Handler
+15:02:20.071 [JettyServerThreadPool-16] DEBUG dLog - GET USER
+15:02:41.319 [JettyServerThreadPool-21] DEBUG dLog - validating account
+15:02:41.739 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+15:02:47.896 [JettyServerThreadPool-16] DEBUG dLog - allFalseRequests Handler
+15:02:58.957 [JettyServerThreadPool-33] DEBUG dLog - Accepted reimbursement request
+15:02:58.958 [JettyServerThreadPool-21] DEBUG dLog - accepted request
+15:02:59.600 [JettyServerThreadPool-21] DEBUG dLog - allFalseRequests Handler
+15:03:04.624 [JettyServerThreadPool-16] DEBUG dLog - Accepted reimbursement request
+15:03:04.625 [JettyServerThreadPool-32] DEBUG dLog - accepted request
+15:03:04.984 [JettyServerThreadPool-34] DEBUG dLog - allFalseRequests Handler
+15:03:08.752 [JettyServerThreadPool-32] DEBUG dLog - Accepted reimbursement request
+15:03:08.753 [JettyServerThreadPool-23] DEBUG dLog - accepted request
+15:03:09.094 [JettyServerThreadPool-33] DEBUG dLog - allFalseRequests Handler
+15:40:38.541 [JettyServerThreadPool-23] DEBUG dLog - validating account
+15:40:49.073 [JettyServerThreadPool-23] DEBUG dLog - validating account
+15:40:51.779 [JettyServerThreadPool-30] DEBUG dLog - GET USER
+15:40:57.599 [JettyServerThreadPool-23] DEBUG dLog - GET USER
+15:41:42.987 [JettyServerThreadPool-23] DEBUG dLog - submitReimbursement Handler
+15:41:43.572 [JettyServerThreadPool-23] DEBUG dLog - GET USER
+15:41:48.244 [JettyServerThreadPool-21] DEBUG dLog - GET USER
+15:41:59.216 [JettyServerThreadPool-21] DEBUG dLog - validating account
+15:42:00.126 [JettyServerThreadPool-21] DEBUG dLog - GET USER
+15:42:03.196 [JettyServerThreadPool-30] DEBUG dLog - GET USER
+15:42:39.889 [JettyServerThreadPool-30] DEBUG dLog - submitReimbursement Handler
+15:42:40.463 [JettyServerThreadPool-20] DEBUG dLog - GET USER
+15:42:43.277 [JettyServerThreadPool-20] DEBUG dLog - GET USER
+15:42:57.841 [JettyServerThreadPool-23] DEBUG dLog - submitReimbursement Handler
+15:42:58.722 [JettyServerThreadPool-30] DEBUG dLog - GET USER
+15:43:16.619 [JettyServerThreadPool-33] DEBUG dLog - validating account
+15:43:17.032 [JettyServerThreadPool-19] DEBUG dLog - GET USER
+15:43:22.279 [JettyServerThreadPool-30] DEBUG dLog - allFalseRequests Handler
+15:43:55.423 [JettyServerThreadPool-22] DEBUG dLog - validating account
+15:43:56.306 [JettyServerThreadPool-33] DEBUG dLog - GET USER
+15:43:59.451 [JettyServerThreadPool-20] DEBUG dLog - GET USER
+15:44:18.448 [JettyServerThreadPool-21] DEBUG dLog - submitReimbursement Handler
+15:44:19.047 [JettyServerThreadPool-33] DEBUG dLog - GET USER
+15:44:31.374 [JettyServerThreadPool-33] DEBUG dLog - validating account
+15:44:32.342 [JettyServerThreadPool-32] DEBUG dLog - GET USER
+15:44:38.893 [JettyServerThreadPool-19] DEBUG dLog - allFalseRequests Handler
+16:20:36.701 [JettyServerThreadPool-17] DEBUG dLog - GET USER
+16:20:39.322 [JettyServerThreadPool-21] DEBUG dLog - validating account
+16:20:39.664 [JettyServerThreadPool-36] DEBUG dLog - GET USER
+16:23:18.884 [JettyServerThreadPool-36] DEBUG dLog - GET USER
+16:23:48.040 [JettyServerThreadPool-37] DEBUG dLog - validating account
+16:23:48.419 [JettyServerThreadPool-37] DEBUG dLog - GET USER
+16:24:24.485 [JettyServerThreadPool-37] DEBUG dLog - GET USER
+16:25:37.727 [JettyServerThreadPool-37] DEBUG dLog - GET USER
+16:26:02.727 [JettyServerThreadPool-32] DEBUG dLog - GET USER
+16:32:05.560 [JettyServerThreadPool-32] DEBUG dLog - GET USER
+16:32:14.365 [JettyServerThreadPool-20] DEBUG dLog - GET USER
+16:34:45.226 [JettyServerThreadPool-20] DEBUG dLog - GET USER
+16:35:05.608 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:35:15.304 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:37:02.561 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:38:00.010 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:38:10.322 [JettyServerThreadPool-20] DEBUG dLog - GET USER
+16:38:19.645 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:39:29.114 [JettyServerThreadPool-42] DEBUG dLog - GET USER
+16:40:14.023 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:40:31.282 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:40:41.021 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:40:51.571 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:40:57.932 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:41:03.790 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:41:10.456 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:41:19.765 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:41:25.999 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:41:53.634 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:41:59.995 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:42:07.867 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:42:14.025 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:42:23.181 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:42:28.543 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:42:39.509 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:42:48.765 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:43:26.496 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:43:32.197 [JettyServerThreadPool-48] DEBUG dLog - GET USER
+16:46:34.120 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:46:55.782 [JettyServerThreadPool-50] DEBUG dLog - GET USER
+16:47:55.193 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+16:48:12.626 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:48:30.752 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:48:39.660 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:48:53.777 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:49:09.756 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:49:45.169 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:49:51.611 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:50:03.724 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:50:14.061 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:50:20.317 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:50:29.268 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:50:38.093 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:51:02.480 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+16:51:23.111 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+16:51:37.703 [JettyServerThreadPool-50] DEBUG dLog - GET USER
+16:51:47.017 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:51:54.298 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:52:03.278 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:52:18.857 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:53:03.724 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:53:16.839 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+16:53:32.778 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:53:44.530 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:53:55.602 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+16:54:06.086 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:54:57.694 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+16:55:11.168 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+16:55:35.481 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+16:56:09.653 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+16:56:24.861 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:56:36.266 [JettyServerThreadPool-57] DEBUG dLog - GET USER
+16:57:21.099 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+16:58:19.030 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+16:58:32.817 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+16:58:39.471 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+16:59:29.188 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+16:59:35.376 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+16:59:44.472 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+16:59:50.742 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+17:00:16.601 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+17:00:23.635 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+17:00:35.082 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+17:00:41.067 [JettyServerThreadPool-50] DEBUG dLog - GET USER
+17:00:48.672 [JettyServerThreadPool-50] DEBUG dLog - GET USER
+17:01:03.092 [JettyServerThreadPool-50] DEBUG dLog - GET USER
+17:01:21.886 [JettyServerThreadPool-50] DEBUG dLog - GET USER
+17:01:30.864 [JettyServerThreadPool-50] DEBUG dLog - GET USER
+17:01:40.014 [JettyServerThreadPool-50] DEBUG dLog - GET USER
+17:01:50.123 [JettyServerThreadPool-50] DEBUG dLog - GET USER
+17:01:54.818 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+17:02:07.250 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+17:04:47.978 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+17:05:09.682 [JettyServerThreadPool-61] DEBUG dLog - GET USER
+17:05:45.539 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+17:06:17.484 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+17:06:30.035 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+17:06:45.600 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+17:07:10.717 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+17:07:23.881 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+17:07:30.127 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+17:07:43.598 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+17:08:55.665 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+17:09:50.554 [JettyServerThreadPool-64] DEBUG dLog - GET USER
+17:10:01.758 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+17:10:12.455 [JettyServerThreadPool-40] DEBUG dLog - GET USER
+17:10:37.534 [JettyServerThreadPool-64] DEBUG dLog - GET USER
+17:10:46.604 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+17:10:58.770 [JettyServerThreadPool-66] DEBUG dLog - GET USER
+17:11:39.316 [JettyServerThreadPool-66] DEBUG dLog - GET USER
+17:11:47.375 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+17:11:53.440 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+17:12:23.774 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+17:12:30.310 [JettyServerThreadPool-43] DEBUG dLog - validating account
+17:12:31.188 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+17:12:33.379 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+17:12:55.057 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+17:13:17.531 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+22:00:33.072 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+22:00:40.127 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+22:02:44.903 [JettyServerThreadPool-62] DEBUG dLog - GET USER
+22:02:48.974 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+22:02:53.960 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+22:03:18.874 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+22:03:40.165 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+22:04:52.496 [JettyServerThreadPool-70] DEBUG dLog - GET USER
+22:05:13.078 [JettyServerThreadPool-62] DEBUG dLog - GET USER
+22:06:18.467 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+22:06:45.518 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+22:07:20.184 [JettyServerThreadPool-43] DEBUG dLog - GET USER
+22:07:46.104 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+22:07:56.425 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+22:08:38.068 [JettyServerThreadPool-62] DEBUG dLog - GET USER
+22:08:38.988 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+22:08:56.557 [JettyServerThreadPool-75] DEBUG dLog - GET USER
+22:09:15.229 [JettyServerThreadPool-75] DEBUG dLog - GET USER
+22:09:19.592 [JettyServerThreadPool-75] DEBUG dLog - GET USER
+22:09:54.709 [JettyServerThreadPool-75] DEBUG dLog - GET USER
+22:12:03.467 [JettyServerThreadPool-62] DEBUG dLog - GET USER
+22:12:53.630 [JettyServerThreadPool-62] DEBUG dLog - GET USER
+22:22:45.769 [JettyServerThreadPool-62] DEBUG dLog - GET USER
+22:23:26.851 [JettyServerThreadPool-76] DEBUG dLog - GET USER
+22:24:14.171 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+22:34:56.991 [JettyServerThreadPool-54] DEBUG dLog - GET USER
+22:35:13.812 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+22:47:32.181 [JettyServerThreadPool-22] DEBUG dLog - All Requests Handler
+22:59:46.797 [JettyServerThreadPool-32] DEBUG dLog - GET USER
+22:59:57.853 [JettyServerThreadPool-23] DEBUG dLog - GET USER
+23:00:06.800 [JettyServerThreadPool-21] DEBUG dLog - validating account
+23:00:07.215 [JettyServerThreadPool-21] DEBUG dLog - GET USER
+23:00:09.617 [JettyServerThreadPool-22] DEBUG dLog - GET USER
+23:00:15.418 [JettyServerThreadPool-22] DEBUG dLog - GET USER
+23:01:22.560 [JettyServerThreadPool-19] DEBUG dLog - GET USER
+23:05:40.321 [JettyServerThreadPool-23] DEBUG dLog - GET USER
+23:06:29.419 [JettyServerThreadPool-33] DEBUG dLog - GET USER
+23:16:21.296 [JettyServerThreadPool-22] DEBUG dLog - GET USER
+23:16:22.890 [JettyServerThreadPool-33] DEBUG dLog - All Requests Handler
+23:17:27.867 [JettyServerThreadPool-33] DEBUG dLog - GET USER
+23:17:28.977 [JettyServerThreadPool-38] DEBUG dLog - All Requests Handler
+23:19:24.431 [JettyServerThreadPool-33] DEBUG dLog - GET USER
+23:19:26.261 [JettyServerThreadPool-39] DEBUG dLog - All Requests Handler
+23:20:25.686 [JettyServerThreadPool-39] DEBUG dLog - GET USER
+23:20:26.625 [JettyServerThreadPool-18] DEBUG dLog - All Requests Handler
+23:20:55.468 [JettyServerThreadPool-36] DEBUG dLog - GET USER
+23:20:56.606 [JettyServerThreadPool-35] DEBUG dLog - All Requests Handler
+23:21:06.367 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+23:21:07.213 [JettyServerThreadPool-18] DEBUG dLog - All Requests Handler
+23:21:45.474 [JettyServerThreadPool-18] DEBUG dLog - GET USER
+23:21:46.277 [JettyServerThreadPool-40] DEBUG dLog - All Requests Handler
+23:22:16.568 [JettyServerThreadPool-36] DEBUG dLog - GET USER
+23:22:17.966 [JettyServerThreadPool-35] DEBUG dLog - All Requests Handler
+23:22:38.511 [JettyServerThreadPool-33] DEBUG dLog - GET USER
+23:22:39.372 [JettyServerThreadPool-18] DEBUG dLog - All Requests Handler
+23:23:06.605 [JettyServerThreadPool-18] DEBUG dLog - GET USER
+23:23:07.908 [JettyServerThreadPool-42] DEBUG dLog - All Requests Handler
+23:24:15.924 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+23:24:16.737 [JettyServerThreadPool-42] DEBUG dLog - All Requests Handler
+23:24:32.650 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+23:24:34.082 [JettyServerThreadPool-42] DEBUG dLog - All Requests Handler
+23:26:30.874 [JettyServerThreadPool-39] DEBUG dLog - GET USER
+23:26:32.304 [JettyServerThreadPool-33] DEBUG dLog - All Requests Handler
+23:27:03.414 [JettyServerThreadPool-42] DEBUG dLog - GET USER
+23:27:04.904 [JettyServerThreadPool-38] DEBUG dLog - All Requests Handler
+23:27:30.441 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+23:27:31.426 [JettyServerThreadPool-42] DEBUG dLog - All Requests Handler
+23:27:53.502 [JettyServerThreadPool-39] DEBUG dLog - GET USER
+23:27:54.846 [JettyServerThreadPool-35] DEBUG dLog - All Requests Handler
+23:28:09.588 [JettyServerThreadPool-45] DEBUG dLog - GET USER
+23:28:16.717 [JettyServerThreadPool-18] DEBUG dLog - GET USER
+23:28:17.323 [JettyServerThreadPool-39] DEBUG dLog - All Requests Handler
+23:28:49.247 [JettyServerThreadPool-39] DEBUG dLog - GET USER
+23:28:50.383 [JettyServerThreadPool-45] DEBUG dLog - All Requests Handler
+23:29:02.741 [JettyServerThreadPool-36] DEBUG dLog - GET USER
+23:29:03.841 [JettyServerThreadPool-35] DEBUG dLog - All Requests Handler
+23:29:12.295 [JettyServerThreadPool-42] DEBUG dLog - GET USER
+23:29:13.041 [JettyServerThreadPool-36] DEBUG dLog - All Requests Handler
+23:29:53.694 [JettyServerThreadPool-36] DEBUG dLog - GET USER
+23:29:54.318 [JettyServerThreadPool-35] DEBUG dLog - All Requests Handler
+23:30:19.028 [JettyServerThreadPool-38] DEBUG dLog - GET USER
+23:30:20.129 [JettyServerThreadPool-47] DEBUG dLog - All Requests Handler
+23:31:11.328 [JettyServerThreadPool-47] DEBUG dLog - GET USER
+23:31:12.184 [JettyServerThreadPool-35] DEBUG dLog - All Requests Handler
+23:31:36.427 [JettyServerThreadPool-45] DEBUG dLog - GET USER
+23:31:37.232 [JettyServerThreadPool-33] DEBUG dLog - All Requests Handler
+23:31:52.908 [JettyServerThreadPool-48] DEBUG dLog - GET USER
+23:31:53.578 [JettyServerThreadPool-45] DEBUG dLog - All Requests Handler
+23:32:42.054 [JettyServerThreadPool-45] DEBUG dLog - GET USER
+23:32:42.832 [JettyServerThreadPool-49] DEBUG dLog - All Requests Handler
+23:32:54.051 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+23:32:55.467 [JettyServerThreadPool-48] DEBUG dLog - All Requests Handler
+23:34:19.095 [JettyServerThreadPool-48] DEBUG dLog - GET USER
+23:34:20.275 [JettyServerThreadPool-33] DEBUG dLog - All Requests Handler
+23:34:33.489 [JettyServerThreadPool-48] DEBUG dLog - GET USER
+23:34:34.749 [JettyServerThreadPool-45] DEBUG dLog - All Requests Handler
+23:37:29.730 [JettyServerThreadPool-18] DEBUG dLog - GET USER
+23:37:30.836 [JettyServerThreadPool-35] DEBUG dLog - All Requests Handler
+23:39:22.220 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+23:39:23.434 [JettyServerThreadPool-49] DEBUG dLog - All Requests Handler
+23:39:25.904 [JettyServerThreadPool-35] DEBUG dLog - All Requests Handler
+23:39:27.682 [JettyServerThreadPool-49] DEBUG dLog - All Requests Handler
+23:39:29.860 [JettyServerThreadPool-35] DEBUG dLog - All Requests Handler
+23:39:32.670 [JettyServerThreadPool-49] DEBUG dLog - All Requests Handler
+23:42:30.480 [JettyServerThreadPool-33] DEBUG dLog - GET USER
+23:42:31.610 [JettyServerThreadPool-52] DEBUG dLog - All Requests Handler
+23:42:36.257 [JettyServerThreadPool-33] DEBUG dLog - All Requests Handler
+23:43:56.474 [JettyServerThreadPool-49] DEBUG dLog - GET USER
+23:44:08.369 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+23:44:26.777 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+23:45:28.507 [JettyServerThreadPool-35] DEBUG dLog - GET USER
+23:45:38.446 [JettyServerThreadPool-45] DEBUG dLog - GET USER
+23:47:01.261 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+23:48:47.014 [JettyServerThreadPool-45] DEBUG dLog - GET USER
+23:49:18.377 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+23:49:36.797 [JettyServerThreadPool-56] DEBUG dLog - GET USER
+23:49:37.678 [JettyServerThreadPool-33] DEBUG dLog - All Requests Handler
+23:49:40.543 [JettyServerThreadPool-56] DEBUG dLog - All Requests Handler
+23:52:57.449 [JettyServerThreadPool-56] DEBUG dLog - GET USER
+23:55:11.356 [JettyServerThreadPool-33] DEBUG dLog - GET USER
+23:55:12.222 [JettyServerThreadPool-46] DEBUG dLog - All Requests Handler
+23:57:35.400 [JettyServerThreadPool-46] DEBUG dLog - GET USER
+23:57:36.400 [JettyServerThreadPool-56] DEBUG dLog - All Requests Handler
+23:57:44.481 [JettyServerThreadPool-56] DEBUG dLog - GET USER
+23:57:45.514 [JettyServerThreadPool-46] DEBUG dLog - All Requests Handler
